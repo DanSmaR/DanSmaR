@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dansmar" alt="dansmar" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and Ruby.**
+- 🌱 I’m currently learning **Ruby on Rails and Ruby.** and studying **Systems Analysis and Development at Fatec MC**
 
 - 💬 Ask me about **Ruby on Rails, Ruby, Python, Javascript, Typescript, NodeJS**
 
